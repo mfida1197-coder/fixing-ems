@@ -1,0 +1,8 @@
+node_modules/
+.pnpm-store/
+backend/backups/
+backend/tmp/
+backend/uploads/
+.env
+.env.*
+!.env.example
